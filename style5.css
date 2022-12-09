@@ -1,0 +1,15 @@
+li p{
+    text-align: left;
+    padding: 1px;
+    width: 500px;
+    height: 30px;
+    margin-left: 400px;  
+}
+  #i{
+    background-color:cyan;
+    
+  }
+ ul li{
+    list-style: none;
+    
+ }
